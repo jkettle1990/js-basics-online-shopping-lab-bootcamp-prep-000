@@ -26,7 +26,7 @@ function viewCart() {
     console.log("Your shopping cart is empty.");
   };
   for (var i = 0; i < cart.length; i++){
-      
+
     }
 }
 

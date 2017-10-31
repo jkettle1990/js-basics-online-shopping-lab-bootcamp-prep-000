@@ -22,6 +22,13 @@ function addToCart(item) {
 
 function viewCart() {
   // write your code here
+  if(!cart.length){
+    console.log("Your shopping cart is empty.");
+  };
+  for (var i = 0; i < cart.length; i++){
+      
+    }
+  }
 }
 
 function total() {
